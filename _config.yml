@@ -20,7 +20,7 @@ links:
 
 social-links:
   - name:         GitHub
-    url:          http://github.com/yourname
+    url:          http://github.com/tom-hm-bain
     icon:         icon-github
     external:     true
   - name:         Linkedin
@@ -28,7 +28,7 @@ social-links:
     icon:         icon-linkedin
     external:     true
   - name:         Twitter
-    url:          # twitter url
+    url:          www.twitter.com/tomhmbain
     icon:         icon-twitter
     external:     true
 pygments:         false
