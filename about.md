@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-image: photo.png
+image: photo.jpg
 caption: your name here
 welcome-message: Nice to see you here
 ---
